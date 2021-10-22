@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYSVENTA", "SYSVENTA\SYSVENTA.csproj", "{067C5ED7-08B3-428F-9B61-2D90831733D6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "INSTALADOR_SYSVENTA", "INSTALADOR_SYSVENTA\INSTALADOR_SYSVENTA.vdproj", "{4E6EAB80-9A64-415A-8CD3-997119338CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067C5ED7-08B3-428F-9B61-2D90831733D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067C5ED7-08B3-428F-9B61-2D90831733D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067C5ED7-08B3-428F-9B61-2D90831733D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067C5ED7-08B3-428F-9B61-2D90831733D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6EAB80-9A64-415A-8CD3-997119338CAF}.Debug|Any CPU.ActiveCfg = Debug
+		{4E6EAB80-9A64-415A-8CD3-997119338CAF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A458B0F7-C5F8-4428-AC4A-B50416A6C304}
+	EndGlobalSection
+EndGlobal
